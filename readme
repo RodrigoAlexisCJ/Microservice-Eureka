@@ -1,0 +1,3 @@
+//Use other ports 
+//Run configuration/arguments/Vm arguments
+-Dserver.port=8001
